@@ -22,7 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto foi Desenvolvido com Intuito de expor metodos da APi para Base De conhecimento da Ferramente Swagger
+Acesso Deploy APi Heroku
+[Java](https://api-spring-produto.herokuapp.com/swagger-ui.html#/)
 
 ## 🚀 Como executar
 
