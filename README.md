@@ -22,12 +22,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto foi Desenvolvido com Intuito de expor metodos da APi com Swagger
+O Projeto foi Desenvolvido com Intuito de expor metodos da APi para Base De conhecimento da Ferramente Swagger
 
 ## 🚀 Como executar
 
 - Clone o repositório
-- Instale as dependências com Maven`mvn clean install`
+- Instale as dependências com Maven `mvn clean install`
 - Inicie o servidor com `mvn spring-boot:run`
 
 A aplicação pode ser acessada em [`localhost:8080`](http://localhost:8080)
@@ -38,4 +38,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by Leoni Cesar 👋🏻 
