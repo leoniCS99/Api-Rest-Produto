@@ -31,7 +31,7 @@ Acesso Deploy Heroku
 ## 🚀 Como executar
 
 - Clone o repositório
-- Instale as dependências com Maven `mvn clean install`
+- Instale as dependências Maven com `mvn clean install`
 - Inicie o servidor com `mvn spring-boot:run`
 
 A aplicação pode ser acessada em [`localhost:8080`](http://localhost:8080)
