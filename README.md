@@ -15,10 +15,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Java](https://www.typescriptlang.org/)
-- [Spring Boot](https://ethereal.email/)
-- [Swagger](https://typeorm.io/#/)
-- [H2](https://expressjs.com/pt-br/)
+- [Java](https://docs.oracle.com/en/java//)
+- [Spring Boot](https://spring.io/projects/spring-boot/)
+- [Swagger](https://swagger.io/docs//#/)
+- [H2](https://gasparbarancelli.com/post/banco-de-dados-h2-com-spring-boot/)
 
 ## 💻 Projeto
 
